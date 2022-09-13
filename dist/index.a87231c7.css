@@ -1,0 +1,297 @@
+@media (max-width: 1000px) {
+  .mew-png {
+    width: 40%;
+  }
+
+  .about-pre {
+    width: 60%;
+  }
+
+  .cool {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 800px) {
+  .header-logo {
+    width: 50vw;
+  }
+
+  .header-nav {
+    width: 50vw;
+    font-size: 1.5rem;
+  }
+
+  .mew-png {
+    width: 40%;
+  }
+
+  .about-pre {
+    width: 60%;
+    font-size: 1.75rem;
+  }
+
+  .cool-keywords {
+    margin-top: 5rem;
+  }
+
+  .cool {
+    border-top-left-radius: 3rem;
+    border-bottom-right-radius: 3rem;
+    padding: 2rem;
+    font-size: 2rem;
+  }
+
+  .usage-paragraph {
+    width: 100%;
+  }
+
+  .usage-heading {
+    font-size: 2.5rem;
+  }
+
+  .base-url, .base-url-input {
+    font-size: 1.5rem;
+  }
+
+  .preetam-logo {
+    width: 80%;
+  }
+
+  .poki-logo {
+    width: 50%;
+  }
+}
+
+@media (max-width: 700px) {
+  .universal-heading {
+    font-size: 3rem;
+  }
+
+  .universal-sub-heading {
+    font-size: 1.75rem;
+  }
+
+  .mew-div {
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 2rem;
+  }
+
+  .mew-png {
+    width: 100%;
+    height: 50vh;
+  }
+
+  .about-pre {
+    width: 100%;
+  }
+
+  .cool {
+    font-size: 2rem;
+  }
+
+  .usage-paragraph {
+    width: 100%;
+  }
+
+  .usage-heading {
+    font-size: 2.5rem;
+  }
+
+  .base-url {
+    font-size: 1.25rem;
+  }
+
+  .base-url-input {
+    width: 70vw;
+    font-size: 1.25rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .header-nav {
+    width: 50vw;
+    justify-content: space-between;
+    font-size: 1.25rem;
+  }
+
+  .header-nav-link {
+    font-size: 1.25rem;
+  }
+
+  .header-image {
+    width: 70%;
+  }
+
+  .universal-heading {
+    font-size: 2.5rem;
+    font-weight: 500;
+  }
+
+  .universal-sub-heading {
+    font-size: 1.5rem;
+  }
+
+  .mew-png {
+    width: 100%;
+    height: 50vh;
+  }
+
+  .about-pre {
+    width: 100%;
+    font-size: 1.5rem;
+  }
+
+  .cool {
+    outline-offset: -.5rem;
+    border-top-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+    outline-width: 2px;
+    padding: 1rem;
+    font-size: 1.5rem;
+  }
+
+  .base-url {
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: .5rem;
+  }
+
+  .base-url-input {
+    width: 95vw;
+    align-self: center;
+    font-size: 1.1rem;
+  }
+
+  .preetam-logo {
+    width: 90%;
+  }
+
+  .poki-logo {
+    width: 60%;
+  }
+
+  .credits-1, .credits-2 {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .header {
+    height: 10vh;
+  }
+
+  .header-nav {
+    display: none;
+  }
+
+  .header-nav-mobile {
+    width: 70vw;
+    justify-content: flex-end;
+    gap: 3rem;
+    padding-left: 3rem;
+    display: flex;
+  }
+
+  .header-nav-link-special {
+    font-size: 1.25rem;
+  }
+
+  .header-image {
+    width: 90%;
+  }
+
+  .universal-heading {
+    font-size: 2rem;
+    font-weight: 500;
+  }
+
+  .universal-sub-heading {
+    font-size: 1.25rem;
+    text-decoration: none;
+  }
+
+  .mew-png {
+    width: 100%;
+    height: 50vh;
+  }
+
+  .about-pre {
+    width: 100%;
+    font-size: 1.5rem;
+  }
+
+  .cool-keywords {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .cool {
+    width: 100%;
+    text-align: center;
+    outline-offset: -.5rem;
+    border-top-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+    outline-width: 2px;
+    padding: 1rem;
+    font-size: 2.25rem;
+  }
+
+  .footer {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .footer-link-1, .footer-link-2 {
+    justify-content: center;
+  }
+
+  .preetam-logo {
+    width: 70%;
+  }
+
+  .poki-logo {
+    width: 40%;
+  }
+
+  .footer-nav {
+    flex-direction: column;
+    gap: 5rem;
+  }
+
+  .credits-1 {
+    padding-top: 1rem;
+    font-size: 1.25rem;
+  }
+
+  .credits-2 {
+    font-size: 1.25rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .header-image {
+    width: 120%;
+  }
+
+  .header-nav-link {
+    font-size: 1.25rem;
+  }
+
+  .header-nav-link-special {
+    border-top-left-radius: .4rem;
+    border-bottom-right-radius: .4rem;
+    font-size: 1rem;
+  }
+
+  .base-url-input {
+    width: 95vw;
+    align-self: center;
+    font-size: 1.1rem;
+  }
+}
+
+/*# sourceMappingURL=index.a87231c7.css.map */

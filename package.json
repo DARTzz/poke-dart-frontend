@@ -1,0 +1,27 @@
+{
+    "name": "pokedartz-fontend",
+    "version": "1.0.0",
+    "description": "Front end for the poke-dart API",
+    "main": "index.js",
+    "scripts": {
+        "start": "npx parcel index.html",
+        "build": "parcel build index.html --dist-dir ./dist"
+    },
+    "devDependencies": {
+        "parcel": "^2.6.0",
+        "parcel-bundler": "^1.12.5",
+        "prettier": "^2.7.1"
+    },
+    "dependencies": {
+        "@ionic/cli": "^6.20.1",
+        "@parcel/transformer-webmanifest": "^2.7.0",
+        "core-js": "^3.23.1",
+        "fractional": "^1.0.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-ionicons": "^4.2.0",
+        "regenerator-runtime": "^0.13.9"
+    },
+    "author": "Preetam Singh",
+    "license": "ISC"
+}
