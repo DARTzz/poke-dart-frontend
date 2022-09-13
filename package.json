@@ -2,7 +2,6 @@
     "name": "pokedartz-fontend",
     "version": "1.0.0",
     "description": "Front end for the poke-dart API",
-    "main": "index.js",
     "scripts": {
         "start": "npx parcel index.html",
         "build": "parcel build index.html --dist-dir ./dist"
